@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frankkips
-- 👀 I’m interested in 
+- 👀 I’m interested in python programming
 - 🌱 I’m currently learning to code in Python Java and Java Script
 - 💞️ I’m looking to collaborate on making a web application
 - 📫 How to reach me. At franklinekiplagat1@gmail.com
