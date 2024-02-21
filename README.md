@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankkips
 - 👀 I’m interested in python,Java programming and web development
-- 🌱 I’m currently learning to code in Python Java and Java Script
+- 🌱 I’m currently learning to code in Reactjs , Android and JavaScript
 - 💞️ I’m looking to collaborate on making a web application
 - 📫 How to reach me. At franklinekiplagat1@gmail.com
 
