@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @frankkips<br>👀 I’m interested in python,Java programming and web development<br>🌱 I’m currently learning to code in Reactjs , Android and JavaScript<br>💞️ I’m looking to collaborate on making a web application<br>📫 How to reach me. At franklinekiplagat1@gmail.com
+👋 Hi, I’m @frankkips<br>👀 I’m interested in python,Java programming and web development<br>🌱 I’m currently learning to code in Reactjs , Android and JavaScript<br>💞️ I’m looking to collaborate on making a web application<br>📫 How to reach me. At franklinekiplagat1@gmail.com<br> Here is my portfolio link https://frankkips.github.io<br> My projects links https://potato-det.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frankline-kiplagat-a35249210) [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/frankkipps) 
